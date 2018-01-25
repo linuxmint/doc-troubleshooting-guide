@@ -11,10 +11,14 @@ This guide will help you troubleshoot issues on your computers, find help within
    :maxdepth: 1
    :caption: General concepts
 
-   Observation
-   Reproducibility
+   observation
+   expectation
+   reproducibility
+   responsibility
+   change
+   analysis
+
    Research and Help
-   Cause Analysis
    Solutions and workarounds
    Reports
 
