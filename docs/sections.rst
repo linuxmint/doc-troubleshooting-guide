@@ -4,7 +4,6 @@
 
 General concepts
 
-Finding help
-
 Reporting bugs
 
+Frequently Asked Questions

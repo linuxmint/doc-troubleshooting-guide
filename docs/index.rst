@@ -16,25 +16,23 @@ This guide will help you troubleshoot issues on your computers, find help within
    reproducibility
    responsibility
    change
-   analysis
-
-   Research and Help
-   Solutions and workarounds
-   Reports
+   errors
+   environment
 
 .. toctree::
    :maxdepth: 1
    :caption: Reporting bugs
 
-   Goal (to fix bugs, not to document everything that is or might be wrong)
-   Invalid bug reports (what not to report)
-   what info to include (enough for devs to reproduce or understand)
-   where (which project, upstream)
-   the lifecycle of a bug report
+   why
+   when
+   what
+   where
+   how
 
 .. toctree::
    :maxdepth: 1
    :caption: Frequently Asked Questions
 
-   Ideas and feature requests
+   faq
+
 
