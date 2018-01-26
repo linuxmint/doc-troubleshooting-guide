@@ -9,10 +9,13 @@ The first thing developers try to do is understand how to reproduce the issue.
 Always give them the relevant information:
 
 * Steps you perform to always reproduce the issue on your computer (be as precise as possible)
-* Particularities in your environment which might be relevant or different than the developers environment (your locale, your drivers, etc..)
+* Particularities in your environment which might be relevant or different than the developers environment (your Mint edition and release, your locale, your drivers, etc..)
 * Any relevant error message of software output
 * Screenshots which show the issue
 * Anything that might make it easier for developers to understand and/or reproduce the issue
+
+.. note::
+	A lot of information about the environment can be listed with the command ``inxi -Fxxrzc0``.
 
 Provide stack traces for crashes
 --------------------------------
