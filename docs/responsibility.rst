@@ -11,7 +11,7 @@ At this stage you've already established the following:
 
 The goal now is to identify **what component is responsible** for the issue and the best way to find out is to proceed by elimination.
 
-During the **reproducibility** phase you identified a series of steps to reproduce the issue. You should now try to reduce the amount of steps necessary and remove components which might play a role in the issue to idenfity which one actually does.
+During the **reproducibility** phase you identified a series of steps to reproduce the issue. You should now try to reduce the amount of steps necessary and remove components which might play a role in the issue to identify which one actually does.
 
 Here are some examples:
 

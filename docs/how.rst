@@ -9,7 +9,7 @@ The first thing developers try to do is understand how to reproduce the issue.
 Always give them the relevant information:
 
 * Steps you perform to always reproduce the issue on your computer (be as precise as possible)
-* Particularities in your environment which might be relevant or different than the developers environement (your locale, your drivers, etc..)
+* Particularities in your environment which might be relevant or different than the developers environment (your locale, your drivers, etc..)
 * Any relevant error message of software output
 * Screenshots which show the issue
 * Anything that might make it easier for developers to understand and/or reproduce the issue
@@ -28,7 +28,7 @@ Explain your expectation
 
 It might sound silly, but sometimes a bug report is clear on what the software does but not on what the author expects it to do. This can lead to a misunderstanding.
 
-If possible, briefly explain why you think the software behaviour is wrong and what you would expect it to do instead.
+If possible, briefly explain why you think the software behavior is wrong and what you would expect it to do instead.
 
 Be patient and pleasant
 -----------------------

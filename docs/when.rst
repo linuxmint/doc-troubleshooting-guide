@@ -1,7 +1,7 @@
 When
 ====
 
-Do not open bug reports before troubleshooting is finished. A particular project might have 2 developers, 100 open bug reports, 1,000 active users on the forums and IRC and a million users overal. You should troubleshoot the issue on your own first, and as much as you can, and then rely on other users in the community for help, before interacting with the development team.
+Do not open bug reports before troubleshooting is finished. A particular project might have 2 developers, 100 open bug reports, 1,000 active users on the forums and IRC and a million users overall. You should troubleshoot the issue on your own first, and as much as you can, and then rely on other users in the community for help, before interacting with the development team.
 
 You should report a bug when all these conditions are met:
 

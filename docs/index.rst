@@ -5,7 +5,7 @@ Linux Mint Troubleshooting Guide
       :width: 100px
       :align: right
 
-This guide will help you troubleshoot issues on your computers, find help within the commnunity and report bugs to the development team.
+This guide will help you troubleshoot issues on your computers, find help within the comnunity and report bugs to the development team.
 
 .. toctree::
    :maxdepth: 1
