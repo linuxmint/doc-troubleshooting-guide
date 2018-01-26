@@ -32,14 +32,14 @@ Once you know the name of the package, you can use ``apt policy`` to see who's m
 	apt policy gnome-system-monitor
 
 	gnome-system-monitor:
-  	Installed: 3.18.2-1ubuntu1
-  	Candidate: 3.18.2-1ubuntu1
-  	Version table:
- 	*** 3.18.2-1ubuntu1 500
-        500 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 Packages
-        100 /var/lib/dpkg/status
-        3.18.2-1 500
-        500 http://archive.ubuntu.com/ubuntu xenial/main amd64 Packages
+  	  Installed: 3.18.2-1ubuntu1
+  	  Candidate: 3.18.2-1ubuntu1
+  	  Version table:
+ 	 *** 3.18.2-1ubuntu1 500
+                500 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 Packages
+                100 /var/lib/dpkg/status
+             3.18.2-1 500
+                500 http://archive.ubuntu.com/ubuntu xenial/main amd64 Packages
 
 
 As you can see above, gnome-system-monitor comes from the Ubuntu repositories and is therefore an upstream component. Bugs related to it should be reported to Ubuntu.
@@ -51,16 +51,16 @@ Here's another example:
 	apt policy gnome-calculator
 
 	gnome-calculator:
-  	Installed: 1:3.18.3-0ubuntu1.16.04.1.mint1
-  	Candidate: 1:3.18.3-0ubuntu1.16.04.1.mint1
-  	Version table:
- 	*** 1:3.18.3-0ubuntu1.16.04.1.mint1 700
-        700 http://packages.linuxmint.com sylvia/upstream amd64 Packages
-        100 /var/lib/dpkg/status
-        1:3.18.3-0ubuntu1.16.04.1 500
-        500 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 Packages
-        1:3.18.3-0ubuntu1 500
-        500 http://archive.ubuntu.com/ubuntu xenial/main amd64 Packages
+  	  Installed: 1:3.18.3-0ubuntu1.16.04.1.mint1
+  	  Candidate: 1:3.18.3-0ubuntu1.16.04.1.mint1
+  	  Version table:
+ 	 *** 1:3.18.3-0ubuntu1.16.04.1.mint1 700
+                700 http://packages.linuxmint.com sylvia/upstream amd64 Packages
+                100 /var/lib/dpkg/status
+             1:3.18.3-0ubuntu1.16.04.1 500
+                500 http://archive.ubuntu.com/ubuntu xenial-updates/main amd64 Packages
+             1:3.18.3-0ubuntu1 500
+                500 http://archive.ubuntu.com/ubuntu xenial/main amd64 Packages
 
 This time we're looking at gnome-calculator. As you can see above, Linux Mint provides version 1:3.18.3-0ubuntu1.16.04.1.mint1, and that's the version which is installed. In this example, our version of gnome-calculator is therefore a Mint component and bugs related to it should be reported to Linux Mint.
 
