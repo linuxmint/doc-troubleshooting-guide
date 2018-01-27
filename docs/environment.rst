@@ -1,7 +1,7 @@
 Environment
 ===========
 
-Your settings, your locale, the set of applications you've installed and everything that might make things on your computer unique, or somewhat different than on somebody else's is called your **environment**.
+Your settings, your locale, the set of applications you've installed and everything that might make things on your computer unique, or somewhat different than on somebody else's, is called your **environment**.
 
 If the issue is always reproducible on your computer but the very same steps do not trigger it on other computers, then the environment is key and the differences between the environment of the two computers should be reviewed.
 
@@ -13,17 +13,17 @@ Depending on the nature of the issue, you might look at different parts of the e
 Locale
 ------
 
-Your locale consists in your language and regional settings.
+Your locale consists of your language and regional settings.
 
 Here are a few common issues related to locales:
 
-* Crashes due to a bad translation
-* Missing translations
-* Crashes due to unicode characters
-* Wide widgets or applications due to long translations
-* Failure to show special characters
+* Crashes due to a bad translation.
+* Missing translations.
+* Crashes due to unicode characters.
+* Wide widgets or applications due to long translations.
+* Failure to show special characters.
 
-When an issue is specific to your locale, set your language to English, log out and log back in and see if the issue is still happening.
+When an issue is specific to your locale, set your language to English, log out and log back in again, and see if the issue is still happening.
 
 To see or share details about your locale, open a terminal and type ``locale``.
 
