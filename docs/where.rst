@@ -1,15 +1,15 @@
 Where
 =====
 
-The Linux Mint operating system is made of thousands of software components. Once you've identified the component responsible for your issue, you need to identify who's maintaining it.
+The Linux Mint operating system is made up of thousands of software components. Once you've identified the component responsible for your issue, you need to identify who's maintaining it.
 
 Mint and upstream components
 ----------------------------
 
 There are two types of components within Linux Mint:
 
-* Mint components are maintained or patched by Linux Mint
-* Upstream components are maintained by Ubuntu (or Debian in the case of LMDE)
+* Mint components are maintained or patched by Linux Mint.
+* Upstream components are maintained by Ubuntu (or Debian in the case of LMDE).
 
 You can use the terminal to get information about a particular component.
 
@@ -23,7 +23,7 @@ For instance, if you are chasing an issue in the file ``/usr/share/polkit-1/acti
 
 	gnome-system-monitor: /usr/share/polkit-1/actions/org.gnome.gnome-system-monitor.policy
 
-The output tells you this file is part of the ``gnome-system-monitor`` package.
+The output tells you that this file is part of the ``gnome-system-monitor`` package.
 
 Once you know the name of the package, you can use ``apt policy`` to see who's maintaining it:
 
@@ -83,23 +83,23 @@ MATE bugs: Github/mate-desktop
 
 MATE is co-developed by Linux Mint.
 
-Bugs which affect MATE or one of its components should be reported on the `MATE Github organization <https://github.com/mate-desktop>`_.
+Bugs which affect MATE or one of its components should be reported on the `MATE Github site <https://github.com/mate-desktop>`_.
 
 One exception to this are bugs which are specific to Linux Mint. For instance, if a bug relates to mintmenu, mintdesktop or a mint theme in MATE, please report it to Linux Mint directly.
 
-Cinnamon, Xapps and Linux Mint bugs
------------------------------------
+Cinnamon, X-Apps and Linux Mint bugs
+------------------------------------
 
 Linux Mint has three development teams:
 
 * The Cinnamon development team maintains all Cinnamon components, including nemo and muffin.
-* The XApp development teams maintains all cross-distribution projects such as the Xapp applications (pix, xed, xreader, xplayer, xviewer), libraries but also slick-greeter, blueberry..etc.
+* The X-App development teams maintains all cross-distribution projects such as the X-App applications (pix, xed, xreader, xplayer, xviewer), libraries, and slick-greeter, blueberry, etc.
 * The Linux Mint development team maintains all the Mint tools and other components distributed via the Mint repositories.
 
-When reporting a bug to one of these teams, try to find the compoment on the `Linux Mint Github organization <http://github.com/linuxmint>`_.
+When reporting a bug to one of these teams, try to find the compoment on the `Linux Mint Github site <http://github.com/linuxmint>`_.
 
-For instance, a nemo bug should be reported on `Nemo <http://github.com/linuxmint/nemo>`_, a mintmenu bug should be reported on `Mintmenu <http://github.com/linuxmint/mintmenu>`_, an xplayer bug on `Xplayer <http://github.com/linuxmint/xplayer>`_ ..etc.
+For instance, a nemo bug should be reported on `Nemo <http://github.com/linuxmint/nemo>`_, a mintmenu bug should be reported on `Mintmenu <http://github.com/linuxmint/mintmenu>`_, an xplayer bug on `Xplayer <http://github.com/linuxmint/xplayer>`_, etc.
 
 If you want to report a general issue about Cinnamon, you can use `Cinnamon <http://github.com/linuxmint/Cinnamon>`_.
 
-If you want to report a general issue about Linux Mint, or an issue about an upstream component which is patched by Linux Mint, or an issue about an upstream component which is specific to Linux Mint, you can use `Linux Mint <http://github.com/linuxmint/linuxmint>`_.
+If you want to report a general issue about Linux Mint, an issue about an upstream component which is patched by Linux Mint, or an issue about an upstream component which is specific to Linux Mint, you can use `Linux Mint <http://github.com/linuxmint/linuxmint>`_.
