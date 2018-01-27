@@ -5,7 +5,7 @@ When something worked **before** and no longer works **anymore**, an important a
 
 What changed recently? Did you install something new? Did you apply updates? Did you change some settings? Are you connecting from a different place?
 
-Reviewing the differences in context between when things worked and when things no longer do is key and can help you identify **responsibility** (i.e. the component responsible for the issue) very rapidly.
+Reviewing the differences in context between when things worked and when things no longer work is key and can help you identify **responsibility** (i.e. the component responsible for the issue) very rapidly.
 
 .. note::
 	Here's an example of an issue where change is key:
