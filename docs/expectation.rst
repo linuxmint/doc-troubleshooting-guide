@@ -3,9 +3,9 @@ Expectation
 
 Observations are mismatches between what the computer does and what you're expecting it to do.
 
-Before troubleshooting, make sure your expectation is correct.
+Before troubleshooting, make sure that your expectation is correct.
 
-Read the relevant documentation, search the web for related issues, go through the release notes and if you're still unsure `ask around <http://linuxmint-installation-guide.readthedocs.io/en/latest/help.html>`_ in the community.
+Read the relevant documentation, search the web for related issues, go through the release notes and, if you're still unsure, `ask around <http://linuxmint-installation-guide.readthedocs.io/en/latest/help.html>`_ in the community.
 
 You cannot troubleshoot without doing this.
 
