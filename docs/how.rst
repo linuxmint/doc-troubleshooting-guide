@@ -8,11 +8,11 @@ The first thing developers try to do is understand how to reproduce the issue.
 
 Always give them the relevant information:
 
-* Steps you perform to always reproduce the issue on your computer (be as precise as possible)
-* Particularities in your environment which might be relevant or different than the developers environment (your Mint edition and release, your locale, your drivers, etc..)
-* Any relevant error message of software output
-* Screenshots which show the issue
-* Anything that might make it easier for developers to understand and/or reproduce the issue
+* Steps you perform to always reproduce the issue on your computer (be as precise as possible).
+* Particularities in your environment which might be relevant or different than the developers' environment (your Mint edition and release, your locale, your drivers, etc..).
+* Any relevant error messages or software output.
+* Screenshots which show the issue.
+* Anything that might make it easier for developers to understand and/or reproduce the issue.
 
 .. note::
 	A lot of information about the environment can be listed with the command ``inxi -Fxxrzc0``.
@@ -23,7 +23,7 @@ Provide stack traces for crashes
 When reporting a crash, provide the following:
 
 * The ``dmesg`` line for the crash.
-* A stack trace for the crash (you can get one using :menuselection:`Menu --> System Reports`)
+* A stack trace for the crash (you can get one using :menuselection:`Menu --> System Reports`).
 * As for other bugs, steps to reproduce the issue.
 
 Explain your expectation
@@ -43,4 +43,4 @@ This is open-source after all, we're all in it for the fun (even though, let's f
 Feel like a hero
 ----------------
 
-When people see their reports closed or no answers to their comments they might assume they wasted their time. That assumption is completely wrong. There are very few developers and many many users. It is not possible to interact with everybody and to fix bug some reports without closing many. Linux Mint is getting better and better though, every day, thanks to people like us, and people like you. It is fueled by effort and feedback. If you read until here and you contributed feedback or bug reports, you should feel like a hero. It takes time to pat each others on the back and we surely don't do it enough.
+When people see their reports closed or no answers to their comments, they might assume they wasted their time. That assumption is completely wrong. There are very few developers and many many users. It is not possible to interact with everybody and to fix some bug reports without closing many. Linux Mint is getting better and better though, every day, thanks to people like us, and people like you. It is fueled by effort and feedback. If you have read until here and/or you have contributed feedback or bug reports, you should feel like a hero. It takes time to pat each other on the back and we surely don't do it enough.
