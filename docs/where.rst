@@ -74,10 +74,6 @@ If the bug relates to a Debian component, it should be reported on `Debian's bug
 .. important::
 	Before reporting upstream bugs to Ubuntu and/or Debian, you should always make sure the issue can be reproduced in Ubuntu and/or Debian. Install Ubuntu (or Debian) in a virtual machine and try to reproduce the issue. If the issue is specific to Linux Mint, it should be reported to Linux Mint directly (whether the component is upstream or not).
 
-The base used by LMDE 3 is Debian 9 'Stretch'.
-The base used by Linux Mint 18 is Ubuntu 16.04 'Xenial'.
-The base used by Linux Mint 19 is Ubuntu 18.04 'Bionic'.
-
 MATE bugs: Github/mate-desktop
 ------------------------------
 
