@@ -92,7 +92,7 @@ Linux Mint has three development teams:
 * The X-App development teams maintains all cross-distribution projects such as the X-App applications (pix, xed, xreader, xplayer, xviewer), libraries, and slick-greeter, blueberry, etc.
 * The Linux Mint development team maintains all the Mint tools and other components distributed via the Mint repositories.
 
-When reporting a bug to one of these teams, try to find the compoment on the `Linux Mint Github site <http://github.com/linuxmint>`_.
+When reporting a bug to one of these teams, try to find the component on the `Linux Mint Github site <http://github.com/linuxmint>`_.
 
 For instance, a nemo bug should be reported on `Nemo <http://github.com/linuxmint/nemo>`_, a mintmenu bug should be reported on `Mintmenu <http://github.com/linuxmint/mintmenu>`_, an xplayer bug on `Xplayer <http://github.com/linuxmint/xplayer>`_, etc.
 
